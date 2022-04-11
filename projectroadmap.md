@@ -12,7 +12,6 @@
 - [ ] Find free to use photos for the fake company to be redirected to.
 - [ ] Start creating the webpages for the hypothetical/fake company for lenses/glasses.
 - [ ] Make webpage template
-- [ ] 
 
 - [ ] Make Small Updates on Github
 - [ ] Add a minimum of 6 Commit Messages in Github Repository (Comments on any changes of significant size with explanation.)
@@ -22,7 +21,13 @@
 - [ ] Test finished project
 - [ ] Organize any coding to appear more neat
 - [ ] Refine the coding on the project
+
+# PowerPoint Tasks
 - [ ] Create PowerPoint slides for project
+- [ ] List Project Members on PPT
+- [ ] Show Title of Project on PPT
+- [ ] Show a tag line that introduces the main concept of what it does/will do on PPT
+- [ ] 
 - [ ] Upload PowerPoint to GitHub and turn in PowerPoint to D2L
 
 # Additional Tasks:
