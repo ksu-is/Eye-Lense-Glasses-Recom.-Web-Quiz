@@ -33,3 +33,9 @@
 # Additional Tasks:
 
 - [ ] Schedule to present and record in Microsoft Teams
+
+
+# Updates/Notes:
+
+- Researched and tested a few potential quiz codes to use with flask.
+- Decided to use our flask webpage example as the foundation to start from scratch on.
