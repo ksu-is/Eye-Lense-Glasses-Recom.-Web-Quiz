@@ -10,8 +10,100 @@
     .container {
       max-width: 500px;
     }
+* {
+  box-sizing: border-box;
+}
+
+body {
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+header {
+  background-color: #C2CEE5;
+  padding: 10px;
+  text-align: center;
+  font-size: 35px;
+  color: white;
+}
+
+nav {
+  float: left;
+  width: 20%;
+  height: 300px;
+  background: #51A2DA;
+  padding: 20px;
+}
+
+nav ul {
+  list-style-type: none;
+  padding: 0;
+}
+
+article {
+  float: left;
+  padding: 20px;
+  width: 70%;
+  background-color: #F2F4F9;
+  height: 700px;
+}
+
+section::after {
+  content: "";
+  display: table;
+  clear: both;
+}
+
+footer {
+  background-color: #51A2DA;
+  padding: 10px;
+  text-align: center;
+  color: white;
+}
+
+@media (max-width: 600px) {
+  nav, article {
+    width: 100%;
+    height: 100%;
+  }
+}
+.vertical-menu {
+  width: 200px;
+}
+
+.vertical-menu a {
+  background-color: #F2F4F9;
+  color: black;
+  display: block;
+  padding: 15px;
+  text-decoration: none;
+}
+
+.vertical-menu a:hover {
+  background-color: #C2CEE5;
+}
+
+.vertical-menu a.active {
+  background-color: #C2CEE5;
+  color: white;
+}
   </style>
   <body>
+<header>
+  <h2>Web Page Quiz</h2>
+</header>
+
+<section>
+<nav>
+<div class="vertical-menu">
+  <a href="#" class="active">Home</a>
+  <a href="#">About</a>
+  <a href="#">Products</a>
+  <a href="#">Quiz</a>
+  <a href="#">Contact Us</a>
+</div>
+</nav>
+	
+<article>
     <div class="container">
 
       <form action="/" method="POST" role="form">
@@ -24,9 +116,14 @@
               </div>
         {% endfor %}
         <input type="submit" value = "Next"/>
-      </form>
+		</form>
 
-    </div>
+	  </div>
+	</article>
+	  </section>
+<footer>
+  <p>&copy; 2022 EyeRis, Inc.</p>
+</footer>
     <script src="http://code.jquery.com/jquery-1.11.0.min.js"></script>
     <script src="http://netdna.bootstrapcdn.com/bootstrap/3.1.1/js/bootstrap.min.js"></script>
   </body>
