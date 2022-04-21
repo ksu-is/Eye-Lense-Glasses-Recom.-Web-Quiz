@@ -24,6 +24,10 @@ class PopQuiz(Form):
         validators=[CorrectAnswer('True')]
         )
     q2 = RadioField(
+        "What shape of lenses do you prefer?",
+        choices=[('True', 'Round'), ('False', 'Square')],
+        validators=[CorrectAnswer('True')]
+    q3 = RadioField(
         "What kind of lenses do you prefer?",
         choices=[('True', 'Round'), ('False', 'Square')],
         validators=[CorrectAnswer('True')]
