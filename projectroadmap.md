@@ -8,12 +8,12 @@
 
 # Sprint 2:
 - [x] Find information on related project by YouTube Videos, websites, etc.
-- [ ] Start creating the foundation for the webpage quiz using Flask and research material.
+- [x] Start creating the foundation for the webpage quiz using Flask and research material.
 - [ ] Find free to use photos for the fake company to be redirected to.
 - [ ] Start creating the webpages for the hypothetical/fake company for lenses/glasses.
-- [ ] Make webpage template
+- [ ] Get Webpage Templates
 
-- [ ] Make Small Updates on Github
+- [x] Make Small Updates on Github
 - [ ] Add a minimum of 6 Commit Messages in Github Repository (Comments on any changes of significant size with explanation.)
 - [ ] Track progress in roadmap
 
