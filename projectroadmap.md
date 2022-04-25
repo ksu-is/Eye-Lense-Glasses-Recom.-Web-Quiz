@@ -22,11 +22,11 @@
 - [ ] Refine the coding on the project
 
 # PowerPoint Tasks
-- [ ] Create PowerPoint slides for project
-- [ ] List Project Members on PPT
-- [ ] Show Title of Project on PPT
-- [ ] Show a tag line that introduces the main concept of what it does/will do on PPT
-- [ ] Upload PowerPoint to GitHub and turn in PowerPoint to D2L
+- [x] Create PowerPoint slide for project
+- [x] List Project Members on PPT
+- [x] Show Title of Project on PPT
+- [x] Show a tag line that introduces the main concept of what it does/will do on PPT
+- [x] Upload PowerPoint to GitHub and turn in PowerPoint to D2L
 
 # Additional Tasks:
 
