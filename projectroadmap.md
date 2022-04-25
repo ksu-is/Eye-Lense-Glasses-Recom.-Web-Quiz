@@ -9,13 +9,12 @@
 # Sprint 2:
 - [x] Find information on related project by YouTube Videos, websites, etc.
 - [x] Start creating the foundation for the webpage quiz using Flask and research material.
-- [ ] Find free to use photos for the fake company to be redirected to.
-- [ ] Start creating the webpages for the hypothetical/fake company for lenses/glasses.
+- [x] Start creating the webpages for the hypothetical/fake company for lenses/glasses.
 - [x] Create Webpage Template
 
 - [x] Make Small Updates on Github
-- [ ] Add a minimum of 6 Commit Messages in Github Repository (Comments on any changes of significant size with explanation.)
-- [ ] Track progress in roadmap
+- [x] Add a minimum of 6 Commit Messages in Github Repository (Comments on any changes of significant size with explanation.)
+- [x] Track progress in roadmap
 
 # Sprint 3:
 - [ ] Test finished project
@@ -27,7 +26,6 @@
 - [ ] List Project Members on PPT
 - [ ] Show Title of Project on PPT
 - [ ] Show a tag line that introduces the main concept of what it does/will do on PPT
-- [ ] 
 - [ ] Upload PowerPoint to GitHub and turn in PowerPoint to D2L
 
 # Additional Tasks:
