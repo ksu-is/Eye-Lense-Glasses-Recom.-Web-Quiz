@@ -17,9 +17,9 @@
 - [x] Track progress in roadmap
 
 # Sprint 3:
-- [ ] Test finished project
-- [ ] Organize any coding to appear more neat
-- [ ] Refine the coding on the project
+- [x] Test finished project
+- [x] Organize any coding to appear more neat
+- [x] Refine the coding on the project
 
 # PowerPoint Tasks
 - [x] Create PowerPoint slide for project
