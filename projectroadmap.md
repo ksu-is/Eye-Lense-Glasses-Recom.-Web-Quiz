@@ -30,7 +30,7 @@
 
 # Additional Tasks:
 
-- [ ] Schedule to present and record in Microsoft Teams
+- [x] Schedule to present and record in Microsoft Teams
 
 
 # Updates/Notes:
